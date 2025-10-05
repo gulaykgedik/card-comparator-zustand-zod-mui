@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Ichigo Kurosaki",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/632146_in_1000x1000.jpg",
+    "description": "Substitute Soul Reaper, protagonist of Bleach.",
+    "rating": 95,
+    "price": 300,
+    "speed": 92
+  },
+  {
+    "id": 2,
+    "title": "Rukia Kuchiki",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/580911_in_1000x1000.jpg",
+    "description": "Soul Reaper, Ichigo's friend and mentor.",
+    "rating": 90,
+    "price": 280,
+    "speed": 85
+  },
+  {
+    "id": 3,
+    "title": "Renji Abarai",
+    "image": "https://i.ebayimg.com/00/s/ODM4WDYwMA==/z/qgoAAOSwP9xmpEzs/$_57.PNG?set_id=880000500F",
+    "description": "Soul Reaper, lieutenant of the 6th Division.",
+    "rating": 88,
+    "price": 250,
+    "speed": 83
+  },
+  {
+    "id": 4,
+    "title": "Orihime Inoue",
+    "image": "https://i.pinimg.com/736x/1b/af/1d/1baf1d1d8cfae35ad9fc524fb22f6ac0.jpg",
+    "description": "Human with healing and defensive powers.",
+    "rating": 85,
+    "price": 200,
+    "speed": 78
+  },
+  {
+    "id": 5,
+    "title": "Uryu Ishida",
+    "image": "https://i.pinimg.com/474x/49/9f/a7/499fa7f9b28cff7bdb717c799124607d.jpg",
+    "description": "Quincy, skilled archer, Ichigo's ally.",
+    "rating": 89,
+    "price": 230,
+    "speed": 86
+  },
+  {
+    "id": 6,
+    "title": "Toshiro Hitsugaya",
+    "image": "https://www.cardtrader.com/uploads/blueprints/image/301669/toshiro-hitsugaya-gold-bleach-union-arena-promos.png",
+    "description": "Young prodigy, captain of 10th Division.",
+    "rating": 92,
+    "price": 270,
+    "speed": 91
+  },
+  {
+    "id": 7,
+    "title": "Byakuya Kuchiki",
+    "image": "https://i.ebayimg.com/images/g/KTYAAOSwcXllG4pS/s-l400.jpg",
+    "description": "Captain of 6th Division, Rukia's brother.",
+    "rating": 96,
+    "price": 320,
+    "speed": 90
+  },
+  {
+    "id": 8,
+    "title": "Sosuke Aizen",
+    "image": "https://i.pinimg.com/474x/f8/33/55/f83355bfd776138c4e993324824b439f.jpg",
+    "description": "Former captain, main antagonist.",
+    "rating": 99,
+    "price": 350,
+    "speed": 95
+  },
+  {
+    "id": 9,
+    "title": "Kenpachi Zaraki",
+    "image": "https://i.ebayimg.com/images/g/u2gAAOSw7qtmowOA/s-l400.jpg",
+    "description": "Captain of 11th Division, loves battle.",
+    "rating": 98,
+    "price": 330,
+    "speed": 88
+  },
+  {
+    "id": 10,
+    "title": "Yasutora Sado",
+    "image": "https://i.pinimg.com/736x/7e/66/36/7e6636277475ae594701e592c89a6d0f.jpg",
+    "description": "Human with super strength, Ichigo's friend.",
+    "rating": 86,
+    "price": 210,
+    "speed": 80
+  },
+  {
+    "id": 11,
+    "title": "Rangiku Matsumoto",
+    "image": "https://i.pinimg.com/736x/e6/90/94/e6909444252014046b0bc1fa4a72f4cf.jpg",
+    "description": "Lieutenant of 10th Division, Toshiro's right hand.",
+    "rating": 87,
+    "price": 220,
+    "speed": 82
+  },
+  {
+    "id": 12,
+    "title": "Shunsui Kyoraku",
+    "image": "https://i.pinimg.com/736x/56/bf/97/56bf972c6cd76749b956833aec47b153.jpg",
+    "description": "Captain of 8th Division, laid-back but powerful.",
+    "rating": 93,
+    "price": 310,
+    "speed": 89
+  },
+  {
+    "id": 13,
+    "title": "Kaname Tosen",
+    "image": "https://i.pinimg.com/236x/e1/b2/6a/e1b26a097552bad87b203ac774b8807a.jpg",
+    "description": "Blind captain, seeks justice by any means.",
+    "rating": 91,
+    "price": 290,
+    "speed": 85
+  },
+  {
+    "id": 14,
+    "title": "Gin Ichimaru",
+    "image": "https://i.pinimg.com/originals/b2/fd/44/b2fd4466a82f682d5d228533b8b21242.jpg",
+    "description": "Former captain, sly and cunning.",
+    "rating": 90,
+    "price": 280,
+    "speed": 87
+  },
+  {
+    "id": 15,
+    "title": "Kisuke Urahara",
+    "image": "https://66.media.tumblr.com/082fc4d235b15bf04e00162938173d8d/tumblr_plnvdxXfYN1vdad3ro1_640.jpg",
+    "description": "Ex-captain, shop owner, highly intelligent.",
+    "rating": 94,
+    "price": 300,
+    "speed": 90
+  },
+  {
+    "id": 16,
+    "title": "Mayuri Kurotsuchi",
+    "image": "https://i.pinimg.com/736x/f4/07/2d/f4072de8b6b8154138ef2c6b5b8ad66a.jpg",
+    "description": "Captain of 12th Division, scientist.",
+    "rating": 89,
+    "price": 260,
+    "speed": 84
+  },
+  {
+    "id": 17,
+    "title": "Yoruichi Shihouin",
+    "image": "https://i.pinimg.com/736x/24/90/ff/2490ff3cfa91f33cda62eaba126519c7.jpg",
+    "description": "Former captain, master of speed and stealth.",
+    "rating": 95,
+    "price": 320,
+    "speed": 97
+  },
+  {
+    "id": 18,
+    "title": "Ulquiorra Cifer",
+    "image": "https://i.pinimg.com/736x/71/60/ca/7160cae92db04ba5d86140756b80a91a.jpg",
+    "description": "Espada 4, calm and deadly.",
+    "rating": 97,
+    "price": 340,
+    "speed": 93
+  },
+  {
+    "id": 19,
+    "title": "Grimmjow Jaegerjaquez",
+    "image": "https://i.pinimg.com/736x/ce/5a/7d/ce5a7da482f2343e0bbd7c64c691c9ca.jpg",
+    "description": "Espada 6, aggressive and strong.",
+    "rating": 96,
+    "price": 330,
+    "speed": 92
+  },
+  {
+    "id": 20,
+    "title": "Ichigo Hollow",
+    "image": "https://i.pinimg.com/736x/83/49/b8/8349b861702f3e5b3a5934f7b6f9ce64.jpg",
+    "description": "Hollow form of Ichigo, extremely powerful.",
+    "rating": 98,
+    "price": 350,
+    "speed": 95
+  }
+]

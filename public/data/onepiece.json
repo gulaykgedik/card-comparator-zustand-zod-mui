@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Monkey D. Luffy",
+    "image": "https://aquitaz.se/cdn/shop/files/1_b31b2555-18d4-4ce6-b492-9abe7b350ebf.png?v=1728232345&width=300",
+    "description": "Captain of the Straw Hat Pirates.",
+    "rating": 98,
+    "price": 300,
+    "speed": 95
+  },
+  {
+    "id": 2,
+    "title": "Roronoa Zoro",
+    "image": "https://static.dotgg.gg/onepiece/card/OP01-001.webp",
+    "description": "Swordsman of the Straw Hat Pirates.",
+    "rating": 96,
+    "price": 280,
+    "speed": 90
+  },
+  {
+    "id": 3,
+    "title": "Nami",
+    "image": "https://vivionblue.com/cdn/shop/files/ONP01530O1.jpg?v=1726114738&width=300",
+    "description": "Navigator of the Straw Hat Pirates.",
+    "rating": 89,
+    "price": 200,
+    "speed": 85
+  },
+  {
+    "id": 4,
+    "title": "Usopp",
+    "image": "https://www.bigorbitcards.co.uk/465008-large_default/usopp.jpg",
+    "description": "Sniper of the Straw Hat Pirates.",
+    "rating": 85,
+    "price": 180,
+    "speed": 80
+  },
+  {
+    "id": 5,
+    "title": "Sanji",
+    "image": "https://i.ebayimg.com/images/g/aUIAAOSwVlxmo9WY/s-l1200.jpg",
+    "description": "Cook and fighter of the Straw Hat Pirates.",
+    "rating": 95,
+    "price": 270,
+    "speed": 92
+  },
+  {
+    "id": 6,
+    "title": "Tony Tony Chopper",
+    "image": "https://i.ebayimg.com/images/g/zMkAAOSwz9pls9pS/s-l1200.jpg",
+    "description": "Doctor of the Straw Hat Pirates.",
+    "rating": 87,
+    "price": 150,
+    "speed": 80
+  },
+  {
+    "id": 7,
+    "title": "Nico Robin",
+    "image": "https://www.bigorbitcards.co.uk/465014-large_default/nico-robin.jpg",
+    "description": "Archaeologist of the Straw Hat Pirates.",
+    "rating": 92,
+    "price": 230,
+    "speed": 88
+  },
+  {
+    "id": 8,
+    "title": "Franky",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/454544_in_1000x1000.jpg",
+    "description": "Shipwright of the Straw Hat Pirates.",
+    "rating": 90,
+    "price": 250,
+    "speed": 85
+  },
+  {
+    "id": 9,
+    "title": "Brook",
+    "image": "https://i.ebayimg.com/images/g/NlAAAOSwRlllScET/s-l1200.jpg",
+    "description": "Musician of the Straw Hat Pirates.",
+    "rating": 88,
+    "price": 200,
+    "speed": 87
+  },
+  {
+    "id": 10,
+    "title": "Jinbe",
+    "image": "https://i.pinimg.com/736x/23/50/49/235049dd069f999a89b2e74f8a6bc525.jpg",
+    "description": "Helmsman of the Straw Hat Pirates.",
+    "rating": 94,
+    "price": 270,
+    "speed": 90
+  },
+  {
+    "id": 11,
+    "title": "Shanks",
+    "image": "https://ae01.alicdn.com/kf/S85046eab1e8c47ada7c63395ef7caf645.jpg_640x640q90.jpg",
+    "description": "Captain of the Red Hair Pirates.",
+    "rating": 99,
+    "price": 350,
+    "speed": 96
+  },
+  {
+    "id": 12,
+    "title": "Blackbeard",
+    "image": "https://i.ebayimg.com/images/g/Iu8AAOSwNapjz~XW/s-l1200.jpg",
+    "description": "Captain of the Blackbeard Pirates.",
+    "rating": 97,
+    "price": 320,
+    "speed": 93
+  },
+  {
+    "id": 13,
+    "title": "Portgas D. Ace",
+    "image": "https://dongames.com.au/cdn/shop/products/IMG_5985.jpg?v=1679546920",
+    "description": "Commander of Whitebeard Pirates.",
+    "rating": 96,
+    "price": 300,
+    "speed": 92
+  },
+  {
+    "id": 14,
+    "title": "Sabo",
+    "image": "https://i.ebayimg.com/images/g/d-kAAOSwXLNkg0zL/s-l400.jpg",
+    "description": "Chief of Staff of the Revolutionary Army.",
+    "rating": 95,
+    "price": 280,
+    "speed": 91
+  },
+  {
+    "id": 15,
+    "title": "Trafalgar D. Water Law",
+    "image": "https://ae01.alicdn.com/kf/S6c37339e84724854aa5ab4db88092e3aP.jpg_640x640q90.jpg",
+    "description": "Captain of the Heart Pirates.",
+    "rating": 94,
+    "price": 270,
+    "speed": 90
+  },
+  {
+    "id": 16,
+    "title": "Eustass Kid",
+    "image": "https://i.ebayimg.com/images/g/R54AAOSwUvVi2YvV/s-l1200.jpg",
+    "description": "Captain of the Kid Pirates.",
+    "rating": 92,
+    "price": 260,
+    "speed": 89
+  },
+  {
+    "id": 17,
+    "title": "Kaido",
+    "image": "https://dongames.com.au/cdn/shop/files/IMG_1752.jpg?v=1726332680",
+    "description": "Governor of Beasts Pirates.",
+    "rating": 99,
+    "price": 360,
+    "speed": 94
+  },
+  {
+    "id": 18,
+    "title": "Big Mom",
+    "image": "https://i.ebayimg.com/images/g/tlAAAOSwYvVlp6E9/s-l1200.jpg",
+    "description": "Captain of the Big Mom Pirates.",
+    "rating": 98,
+    "price": 350,
+    "speed": 92
+  },
+  {
+  "id": 19,
+  "title": "Edward Newgate",
+  "image": "https://images.production.sportscardinvestor.com/6650_11819_12750_OP02-001_Alternate%20Art-M",
+  "description": "Captain of the Whitebeard Pirates.",
+  "rating": 99,
+  "price": 360,
+  "speed": 94
+},
+  {
+  "id": 20,
+  "title": "Boa Hancock",
+  "image": "https://i.ebayimg.com/images/g/KT4AAOSwKVNmo9WR/s-l400.jpg",
+  "description": "Pirate empress of Amazon Lily.",
+  "rating": 94,
+  "price": 320,
+  "speed": 91
+}
+]
