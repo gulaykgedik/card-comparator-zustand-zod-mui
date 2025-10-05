@@ -6,7 +6,8 @@ The app uses **Zustand** for state management and **Zod** for data validation.
 
 ## Screenshot
 
-![Uploading cart-comparator.gif…]()
+
+![cart-comparator](https://github.com/user-attachments/assets/420a14dd-324d-47df-8964-4fa7fa26241b)
 
 
 
