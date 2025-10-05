@@ -1,16 +1,70 @@
-# React + Vite
+# 🃏 Anime Card Comparator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a fun web app that lets you compare character cards from **Naruto**, **One Piece**, and **Bleach** universes.  
+Users can select cards, compare them based on chosen metrics, and see the winner with animations.  
+The app uses **Zustand** for state management and **Zod** for data validation.
 
-Currently, two official plugins are available:
+## Screenshot
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Uploading cart-comparator.gif…]()
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- ⚡ **Real-time Comparison:**  
+  Select two cards and click **Compare** to determine the winner based on `rating`, `speed`, or `price`.
+
+- 💾 **Category-based Data Loading:**  
+  Each anime (Naruto, One Piece, Bleach) loads its data from separate JSON files dynamically.
+
+- 🧩 **Global State with Zustand:**  
+  Handles selected cards, metrics, reverse mode, winners, categories, and UI state globally.
+
+- 🔄 **Reverse Mode:**  
+  When enabled, **lower values win** (for example, a cheaper `price` wins).
+
+- 🧠 **Data Validation with Zod:**  
+  JSON files are validated using Zod schemas before being used in the app.  
+  If validation fails, a Snackbar warning appears.
+
+- 🏆 **Animated Winner Card:**  
+  The winning card is highlighted with a green border and smooth animations.
+
+- 🎨 **Material UI (MUI) + Framer Motion:**  
+  Provides a clean design and fluid animations.
+
+## 🛠️ Technologies Used
+
+| Technology | Description |
+|-------------|-------------|
+| ⚛️ **React** | Frontend framework |
+| 🧱 **Zustand** | Lightweight state management |
+| 🎨 **Material UI (MUI)** | UI components library |
+| 💫 **Framer Motion** | Animations and transitions |
+| 🔍 **Zod** | Schema validation for JSON data |
+| 📦 **Vite** | Fast development and build tool |
+
+
+## 🎮 How to Play
+
+### 1️⃣ Selecting Cards
+- You can select **two cards at a time**.  
+- When a card is selected, its **border turns red** and the button text changes to **“Selected”**.
+
+### 2️⃣ Comparing
+- After selecting two cards, click **Compare**.  
+- The **winning card** will show a **green border** and play a **bounce animation**.  
+- If both cards have equal values, both will display a **“DRAW”** label.
+
+### 3️⃣ Reverse Mode
+- When **Reverse Mode** is on, **smaller values win** (for example, a lower price wins).  
+- The switch in the navbar toggles this mode.
+
+### 4️⃣ Switching Categories
+- Use the navbar buttons to switch between:
+  - 🌀 **Naruto**
+  - ☠️ **One Piece**
+  - ⚔️ **Bleach**
+
